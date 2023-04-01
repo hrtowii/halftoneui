@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanup.progress.fillColor</key>
+	<string>#ff0000</string>
+	<key>general.textColor</key>
+	<string>#ff0000</string>
+	<key>table.backgroundColor</key>
+	<string>#000000</string>
+	<key>table.cell.backgroundColor</key>
+	<string>#000000</string>
+	<key>table.cell.selectionColor</key>
+	<string>#000000</string>
+	<key>table.cell.separatorColor</key>
+	<string>#000000</string>
+	<key>table.headerFooterLabel.color</key>
+	<string>#ff0000</string>
+	<key>table.index.backgroundColor</key>
+	<string>#000000</string>
+	<key>textView.textColor</key>
+	<string>#ff0000</string>
+</dict>
+</plist>
